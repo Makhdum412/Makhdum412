@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Makhdum</h1>
+<h1 align="center">Konnichiwa 👋, I'm Makhdum</h1>
 <h3 align="center">Full Stack Engineer | Aspiring ML Engineer </h3>
 <div align="center">
   <img 
