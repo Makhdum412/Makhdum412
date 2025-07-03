@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makhdum</h1>
-<h3 align="center">A Full Stack Engineer and Aspiring ML Engineer from India!</h3>
+<h3 align="center">Full Stack Engineer | Aspiring ML Engineer </h3>
 <div align="center">
   <img 
     alt="Coding" 
