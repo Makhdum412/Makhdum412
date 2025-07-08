@@ -1,4 +1,6 @@
 <h1 align="center">Konnichiwa 👋, I'm Makhdum</h1>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=zues&font=default&quoteType=random)
+
 <h3 align="center">Full Stack Engineer | Aspiring ML Engineer </h3>
 <div align="center">
   <img 
